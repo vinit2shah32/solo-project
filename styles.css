@@ -17,11 +17,12 @@ img {
     width: 100px;
 }
 
-.hero{
+
+.hero {
     background-color: #457B9D;
     color: #F1FAEE;
     padding: 20px;
     background-image: url("images/torshov.jpg");
     height: 400px;
-    background: cover;
-}
+    background-size: cover;
+    }
