@@ -34,4 +34,38 @@ img {
     }
 .title{
     background: #457B9D;
+
+}
+
+.middle-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    background: #F1FAEE;
+}
+
+.middle-section h2{
+    color: #457B9D;
+}
+
+.activity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+.image{
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+}
+
+.action{
+    font-weight: 600px;
+
 }
