@@ -41,7 +41,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     padding: 20px;
     background: #F1FAEE;
 }
