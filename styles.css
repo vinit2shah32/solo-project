@@ -16,3 +16,10 @@ body {
 img {
     width: 100px;
 }
+
+.hero{
+    background-color: #457B9D;
+    color: #F1FAEE;
+    padding: 20px;
+    background-image: url("images/torshov.jpg");
+}
