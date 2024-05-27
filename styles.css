@@ -23,4 +23,5 @@ img {
     padding: 20px;
     background-image: url("images/torshov.jpg");
     height: 400px;
+    background: cover;
 }
