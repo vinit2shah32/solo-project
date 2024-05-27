@@ -41,7 +41,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
     padding: 20px;
     background: #F1FAEE;
 }
@@ -70,6 +70,14 @@ img {
 
 }
 .sub-heading{
-    display: block;
-    margin: 0px auto;
+
+    font-weight: 700;
+    font-size: 16px;
 }
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    }
